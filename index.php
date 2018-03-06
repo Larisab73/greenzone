@@ -1,7 +1,7 @@
 <?php
 /* Config */
 $Servername ="Servername";
-$ip = "127.0.0.1";
+$ip = "https://larisab73.github.io/greenzone/";
 $port = "7777";
 /* End Config */
 ?>
