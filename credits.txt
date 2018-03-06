@@ -1,0 +1,12 @@
+
+Credits:
+
+Bootstrap - Bootstrap - http://getbootstrap.com/
+FontAwesome - Icons - http://fontawesome.io/
+StartBootstrap - Theme Base - https://startbootstrap.com/
+Fezvrasta - Bootstrap Material Skin - http://fezvrasta.github.io/bootstrap-material-design/
+Alphacoders - Intro Image - https://wall.alphacoders.com/
+Abhishek Raj - Pricing Table - https://github.com/abhimaliyeckal
+Edward McKnight - Samp Query - http://EM-Creations.co.uk
+
+Made By Vomau - https://vomau.de
